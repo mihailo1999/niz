@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Mihailo\source\repos\1NIZOVI\Projectprogramiranje1\Source.c(214,7): warning C4101: 'prvi': unreferenced local variable
+C:\Users\Mihailo\source\repos\1NIZOVI\Projectprogramiranje1\Source.c(348,7): warning C4101: 'poziija': unreferenced local variable
+  Projectprogramiranje1.vcxproj -> C:\Users\Mihailo\source\repos\1NIZOVI\Debug\Projectprogramiranje1.exe
